@@ -1,7 +1,9 @@
 COMPANY NAME :Codsoft
 NAME : Mageshwaran.N
 INTERN ID :  CS25RY93339
-DOMAIN :  Welcome to my landing page project! This task is a reflection of my ability to design sleek, engaging, and responsive single-page websites. It serves as an example of how I combine visual appeal with functionality to create an impactful first impression for any brand or service.
+DOMAIN : WEB DEVELOPMENT
+DURATION: 15TH JULY 2025 TO 15TH AUGUST 2025
+DESCRIPTION: Welcome to my landing page project! This task is a reflection of my ability to design sleek, engaging, and responsive single-page websites. It serves as an example of how I combine visual appeal with functionality to create an impactful first impression for any brand or service.
 
 Here, you’ll find a clean and structured layout that guides visitors smoothly through key information—whether it’s about a product, service, or campaign. Each element on this landing page has been crafted with attention to clarity, user flow, and responsive design principles. From strong call-to-actions to eye-catching visuals and intuitive navigation, this project showcases my understanding of user behavior and my focus on creating purposeful user experiences.
 
